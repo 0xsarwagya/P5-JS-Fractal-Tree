@@ -30,7 +30,7 @@ Features
 
 ## Author
 
-Sarwagya Singh
+Sarwagya Singh (0xsarwagya)
 
 ## License
 
