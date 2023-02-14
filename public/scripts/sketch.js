@@ -3,7 +3,7 @@ let length;
 let start;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(1080, 1080);
   angle = radians(30);
   length = height / 4;
   start = createVector(width / 2, height);
